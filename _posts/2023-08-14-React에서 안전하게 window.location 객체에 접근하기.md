@@ -1,5 +1,5 @@
 ---
-title: React에서 안전하게 `window.location` 객체에 접근하기
+title: React에서 안전하게 window.location 객체에 접근하기
 date: 2023-08-14 20:00:00 +0900
 categories:
   - React

@@ -1,5 +1,5 @@
 ---
-title: 자바스크립트 쿼리 스트링 라이브러리 탐방!
+title: accent-color 속성 빠르게 알아보자
 date: 2023-09-01 20:00:00 +0900
 categories:
   - CSS

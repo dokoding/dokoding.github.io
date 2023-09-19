@@ -1,5 +1,5 @@
 ---
-title: React `forwardRef()` 깊게 알아보기
+title: React forwardRef() 깊게 알아보기
 date: 2023-08-03 20:00:00 +0900
 categories:
   - React
